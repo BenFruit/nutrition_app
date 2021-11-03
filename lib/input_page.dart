@@ -29,6 +29,7 @@ class _InputPageState extends State<InputPage> {
   int height = 120;
   int weight = 55;
   int age = 19;
+  int test = 10;
 
   void updateColor(Gender gender) {
     setState(() {
